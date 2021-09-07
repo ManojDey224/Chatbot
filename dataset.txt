@@ -1,0 +1,30 @@
+'hello ',
+'hi there ! ',
+'what is your name ? ',
+'My name is Bot , I am created by Shew , Anik ,manoj,tushar and souvik ',
+'how are you ? ',
+'I am doing great these days ',
+'thankyou ",
+'In which city you live ? ',
+'I live in Kolkata ',
+'In which language you talk ',
+'I mostly talk in English ',
+'How can I see the academic structure of tpi ? '
+'Sure, if you enter our main website then you show a red square with red straight line besides our college name, you just click or touch the box and then you see that a option of academic, you just click and finally you see academic structure of our college. '
+'How can I see the academic structure of Technique 
+polytechnic institute ?'
+'Sure, if you enter our main website then you show a red square with red straight line besides our college name, you just click or touch the box and then you see that a option of academic, you just click and finally you see academic structure of our college.'
+'How many Course are available in TPI/Technique Polytechnic Institute ? '
+'In the course option there are two options one is diploma engineering, another is VIII+Vocational course. If you know about the full or half time diploma engineering then you click the diploma engineeringOption or if you know about the VIII+Vocational course then you click the Vocational course.'
+'Details abouts all course part available in TPI/Technique Polytechnic Institute ? '
+'In the course option there are two options one is diploma engineering, another is VIII+Vocational course. If you know about the full or half time diploma engineering then you click the diploma engineeringOption or if you know about the VIII+Vocational course then you click the Vocational course.'
+'Is that first year same department all of student in the diploma engineering? '
+'well, at first I clarify you that you choose any department but first year department are same all of department students which is (science & humanities).For more details please vist https://www.techniqueedu.com/department-details/51 '
+'What is the overview of science & humanities department in tpi/Technique polytechnic institute college? '
+'If you enter our college department option then you see there is an option of science & humanities department, you just click the option and you see the overview of science & humanities. you can see also see the department mission.For more details please vist https://www.techniqueedu.com/department-details/51'
+'What is the infrastructure of science & humanities department in tpi/Technique polytechnic institute college? '
+'The Department Faculty Room no is 115,Theorectical Class Rooms are 304,305,306,307,308, it can also change in several times and  the laboratory Rooms are Physics Laboratory no is 101,Chemistry Laboratory no is 116, Language laboratory no is 203.you can also see our science & humanities department infrastructure option in our college website.'
+'What is the faculty list at science & humanities department in tpi/Technique polytechnic institute college? '
+'There are many several teachers available at several, several subject in science & humanities department. You can also check at science & humanities department faculty option in our college main website. '
+'What is the overview of civil department in tpi/Technique polytechnic institute college? '
+' If you enter our college department option then you see there is an option of civil department, you just click the option and you see the overview of civil department. you can see also see the department mission.'
